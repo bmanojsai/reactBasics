@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Sai",
+      "email": "manoj@gmail.com",
+      "navigateToList": false,
+      "id": "9797320c-812c-4693-b2b4-d1d98c4c3dcb"
+    },
+    {
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "navigateToList": false,
+      "id": "d3d1eb56-7b73-4f2f-b270-981a236f0111"
+    }
+  ]
+}
